@@ -1,7 +1,7 @@
 from discord.ext import tasks
 
 import discord
-
+#
 
 class MyClient(discord.Client):
     # Suppress error on the User attribute being None since it fills up later
